@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Activity Graph](https://vercel.app)
+
+[![GitHub Trophy](https://vercel.app)](https://github.com)
+
+[![Chess Game](https://vercel.app)](https://github.com)
