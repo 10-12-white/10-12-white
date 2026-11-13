@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+dont have these yet because I need to set up the cercel app.  Do this by doing the following:
+
+
 -->
-
-![Activity Graph](https://vercel.app)
-
-[![GitHub Trophy](https://vercel.app)](https://github.com)
-
-[![Chess Game](https://vercel.app)](https://github.com)
+https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&section=header&reversal=true&text=Trills+GitHub&textBg=false&fontSize=70&fontAlign=49&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
