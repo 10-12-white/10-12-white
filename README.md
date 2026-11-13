@@ -17,4 +17,5 @@ dont have these yet because I need to set up the cercel app.  Do this by doing t
 
 
 -->
-https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&section=header&reversal=true&text=Trills+GitHub&textBg=false&fontSize=70&fontAlign=49&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
+[https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&section=header&reversal=true&text=Trills+GitHub&textBg=false&fontSize=70&fontAlign=49&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
+](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&section=header&reversal=true&text=Trills+GitHub&textBg=false&fontSize=70&fontAlign=49&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
